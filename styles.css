@@ -34,7 +34,8 @@ body {
     display: inline;
     padding-left: 20px
 }
-.container {
+.container,
+.post-container {
     max-width: 1000px;
     margin: 0 auto;
 }
